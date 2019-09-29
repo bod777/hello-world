@@ -1,3 +1,6 @@
 # hello-world
-learning how to use github
-Small baby steps at the beginning to get used to all of this. Hopefully this becomes a real tool for me.
+learning how to use github.
+took me a while to get going.
+started with just baby steps.
+i think i am getting the hang of it.
+i'm happy enough with this.
